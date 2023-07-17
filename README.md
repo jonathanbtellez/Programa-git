@@ -1,0 +1,1 @@
+## herramientas de versionamiento (GIT) instalada y configurada. 
